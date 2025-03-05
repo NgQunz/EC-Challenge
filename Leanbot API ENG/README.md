@@ -73,8 +73,6 @@ Leanbot API Reference
 - [LbColorDetector.printRGB](#LbColorDetectorprintRGB)
 
 
-[Leanbot IoT](README_LeanbotIoT.md)
-
 
 ---
 
