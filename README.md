@@ -1,6 +1,6 @@
 # EC CHALLENGE 2025
 
-## Thể lệ và luật thi EC CHALLENGE 2025 / EC CHALLENGE 2025 Rules and Regulations
+## Thể lệ và luật thi / Rules and Regulations
 Tiếng Việt: https://docs.google.com/document/d/1NeYr07SF_KqbXzV4bHKyVQVx56TbVeFG/edit?usp=sharing&ouid=113353032769254650185&rtpof=true&sd=true
 
 English: (https://docs.google.com/document/d/1EqdEi3wYa_xe2k_xTTIr8PCPIG3j70-o/edit?usp=sharing&ouid=113353032769254650185&rtpof=true&sd=true)
